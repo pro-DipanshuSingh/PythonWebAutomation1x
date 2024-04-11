@@ -29,3 +29,6 @@
 - pip install pytest-xdist 
 - pip install mysql-connector-python
 - pip install pytest-reportportal
+- pip install allure-pytest
+###BDD
+- pip install behave
